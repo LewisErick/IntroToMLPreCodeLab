@@ -1,19 +1,21 @@
 # IntroToMLPreCodeLab
 A codelab to make sure you have the dependencies needed for class.
 
+<br>
 <h1>Installation</h1>
-
 <h2>Installing dependencies:</h2>
 
 <h3>Microsoft Windows and Mac:</h3>
-We recommend installing Anaconda as it installs Python, Jupyter and other libraries needed easily. You can find it in the following link:
+We recommend installing Anaconda as it installs Python, Jupyter and other libraries needed easily. You can find it in the following link: 
 https://www.anaconda.com/download/
 
 <h3>Linux (Debian-based):</h3>
 
 1. On your terminal, run the following code:<br>
 
-```sudo apt-get install pip```
+```
+sudo apt-get install pip
+```
 
 2. Once you have Pip (Python Package Manager), run the following code on your terminal:
 
@@ -24,11 +26,12 @@ pip install -U scikit-learn
 ```
 
 
-You can also install <a href="https://www.anaconda.com/download/">Anaconda</a>, but I personally prefer the steps above. It's up to you. :)
+You can also install <a href="https://www.anaconda.com/download/">Anaconda</a> for Linux, but I personally prefer the steps above. It's up to you. :)
 
+<br>
 <h2>Cloning the repo</h2>
 
-1. Check <b>Set Up</b> section here: http://rogerdudler.github.io/git-guide/
+1. Check the <b>Set Up</b> section here: http://rogerdudler.github.io/git-guide/
 2. Open your terminal (Linux or Mac) or command line (cmd on Windows) and enter the following:<br>
 
 ```
@@ -37,6 +40,8 @@ You can also install <a href="https://www.anaconda.com/download/">Anaconda</a>, 
 
 This should download the project with the notebook successfully. You can also use the GitHub Desktop App to clone the repository.
 
+
+<br><br>
 <h1>Using the notebook</h1>
 
 To open the notebook, you can do any of the following:
@@ -53,3 +58,5 @@ This will open the Jupyter Notebook Dashboard. From there, just navigate to the 
 ```
 jupyter notebook intro.ipynb
 ```
+
+Now you're good to go! Follow the instructions on the notebook!
