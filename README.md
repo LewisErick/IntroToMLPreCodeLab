@@ -6,15 +6,16 @@ A codelab to make sure you have the dependencies needed for class.
 <h2>Installing dependencies:</h2>
 
 <h3>Microsoft Windows and Mac:</h3>
-We recommend installing <a href="https://www.anaconda.com/download/">Anaconda</a> as it installs Python, 
-Jupyter and other libraries needed easily.
+We recommend installing Anaconda as it installs Python, Jupyter and other libraries needed easily. You can find it in the following link:
+https://www.anaconda.com/download/
 
 <h3>Linux (Debian-based):</h3>
-1. On your terminal, run the following code:
+
+1. On your terminal, run the following code:<br>
 
 ```sudo apt-get install pip```
 
-2. Once you have Pip (Python Package Manager), run the following code on your terminal:<br>
+2. Once you have Pip (Python Package Manager), run the following code on your terminal:
 
 ```
 pip install numpy
@@ -31,8 +32,10 @@ You can also install <a href="https://www.anaconda.com/download/">Anaconda</a>, 
 2. Open your terminal (Linux or Mac) or command line (cmd on Windows) and enter the following:<br>
 
 ```
-  git clone
+  git clone https://github.com/LewisErick/IntroToMLPreCodeLab.git
 ```
+
+This should download the project with the notebook successfully. You can also use the GitHub Desktop App to clone the repository.
 
 <h1>Using the notebook</h1>
 
