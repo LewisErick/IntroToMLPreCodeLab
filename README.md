@@ -42,7 +42,7 @@ This should download the project with the notebook successfully. You can also us
 
 
 <br><br>
-<h1>Using the notebook</h1>
+<h1>Using the notebook (optional)</h1>
 
 To open the notebook, you can do any of the following:
 1. Open your terminal (Linux or Mac) or command line (cmd on Windows) and enter the following:<br>
